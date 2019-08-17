@@ -1,2 +1,0 @@
-# datasciencecoursera
-Coursera Course Work
